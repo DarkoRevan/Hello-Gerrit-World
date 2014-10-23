@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a6b29fe_1f41b639",
+        "filename": "Hello Gerrit World/src/GeometricObject.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1002539
+      },
+      "writtenOn": "2014-10-23T03:01:17Z",
+      "side": 1,
+      "message": "implement constructors",
+      "range": {
+        "startLine": 4,
+        "startChar": 6,
+        "endLine": 4,
+        "endChar": 21
+      },
+      "revId": "f9daea7b3935007088cd1890eb36958d0b41fff6",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a6b29fe_bf5c0227",
+        "filename": "Hello Gerrit World/src/GeometricObject.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1002539
+      },
+      "writtenOn": "2014-10-23T03:01:17Z",
+      "side": 1,
+      "message": "implement getters + setters",
+      "range": {
+        "startLine": 5,
+        "startChar": 1,
+        "endLine": 6,
+        "endChar": 24
+      },
+      "revId": "f9daea7b3935007088cd1890eb36958d0b41fff6",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
