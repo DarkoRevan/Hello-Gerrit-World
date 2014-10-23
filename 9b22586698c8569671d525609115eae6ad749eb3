@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a6b29fe_1f3a56cd",
+        "filename": "Hello Gerrit World/src/Main.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1002539
+      },
+      "writtenOn": "2014-10-23T02:44:56Z",
+      "side": 1,
+      "message": "Always remove task tags",
+      "revId": "9b22586698c8569671d525609115eae6ad749eb3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
