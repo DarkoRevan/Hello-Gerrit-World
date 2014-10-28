@@ -4,3 +4,4 @@ Hello-Gerrit-World
 ==================
 
 Testing Gerrit and more
+new line
